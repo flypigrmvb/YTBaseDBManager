@@ -1,0 +1,27 @@
+{
+  "name": "YTBaseDBManager",
+  "version": "0.1.0",
+  "summary": "A short description of YTBaseDBManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/flypigrmvb/YTBaseDBManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "flypigrmvb": "862709539@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/flypigrmvb/YTBaseDBManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YTBaseDBManager/Classes/**/*",
+  "dependencies": {
+    "FMDB": [
+
+    ]
+  }
+}

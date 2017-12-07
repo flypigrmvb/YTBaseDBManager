@@ -1,0 +1,12 @@
+#use_frameworks!
+
+target 'YTBaseDBManager_Example' do
+  pod 'YTBaseDBManager', :path => '../'
+  pod 'YYModel'
+
+  target 'YTBaseDBManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
